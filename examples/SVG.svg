@@ -1,0 +1,7 @@
+
+    <svg xmlns="http://www.w3.org/2000/svg">
+    <style>
+    @import url("https://fonts.googleapis.com/css?family=Bruno+Ace&amp;display=swap");
+    </style>
+    <circle cx="100" cy="100" r="100" fill="teal" /><text x="20" y="120" font-size="60" font-family="Bruno Ace" fill="pink">SVG</text>
+    </svg>

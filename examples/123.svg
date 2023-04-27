@@ -1,0 +1,7 @@
+
+    <svg xmlns="http://www.w3.org/2000/svg">
+    <style>
+    @import url("https://fonts.googleapis.com/css?family=Bruno+Ace&amp;display=swap");
+    </style>
+    <polygon points="150,0 300,200 0,200" fill="pink" /><text x="87" y="155" font-size="65" font-family="Bruno Ace" fill="blue">123</text>
+    </svg>
