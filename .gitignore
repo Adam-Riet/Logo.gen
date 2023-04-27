@@ -1,18 +1,2 @@
-# Node.js specific files
-node_modules/
-npm-debug.log*
-yarn-error.log
-yarn-debug.log*
-
-# System and editor-specific files
-.DS_Store
-.AppleDouble
-.LSOverride
-Thumbs.db
-Desktop.ini
-*~
-*.sublime*
-*.swp
-*.swo
-*.idea/
-.vscode/
+node_modules
+logo.svg
