@@ -3,5 +3,5 @@
     <style>
     @import url("https://fonts.googleapis.com/css?family=Bruno+Ace&amp;display=swap");
     </style>
-    <circle cx="100" cy="100" r="100" fill="#008080" /><text x="20" y="120" font-size="60" font-family="Bruno Ace" fill="#FF69b4">SVG</text>
+    <circle cx="100" cy="100" r="100" fill="#008080" /><text x="20" y="120" font-size="60" font-family="Bruno Ace" fill="#FF69B4">SVG</text>
     </svg>

@@ -14,8 +14,8 @@ This command-line application is a Logo.svg generator that helps users create a 
 ## Installation
 1. Clone the repository to your local machine. You can use either the SSH or HTTPS URL:
 
-SSH: git@github.com:Adam-Riet/Logo.svg-Generator.git
-HTTPS: git clone https://github.com/Adam-Riet/Logo.svg-Generator.git
+SSH: git@github.com:Adam-Riet/Logo.gen.git
+HTTPS: git clone https://github.com/Adam-Riet/Logo.gen.git
 
 2. Navigate to the project directory by running cd Logo.svg-Generator.
 3. Install Node.js on your machine if you haven't already. You can download it from the official website: https://nodejs.org/.
