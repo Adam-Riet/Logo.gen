@@ -36,7 +36,7 @@ Check out this video on how to run the code once you have complete the instrucit
 
 ## Credits
 
-* This README Generator wouldn't be possible without the following resources and tools:
+* This Logo.svg Generator wouldn't be possible without the following resources and tools:
 
 * Node.js: A JavaScript runtime built on Chrome's V8 JavaScript engine, enabling the creation of scalable and efficient applications.
 
