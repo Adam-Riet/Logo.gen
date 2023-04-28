@@ -25,7 +25,7 @@ HTTPS: git clone https://github.com/Adam-Riet/Logo.gen.git
 ## Demo
 Check out this video on how to run the code once you have complete the instrucitons:
 
-[Click here to watch the demo video](https://drive.google.com/file/d/1YBm8assAFpNlalc2jGRX4VIn4tVnPGEu/view)
+[Click here to watch the demo video](https://drive.google.com/file/d/1aS0u_gGLw-OiYget2R9zV_tiwCNdCiAh/view?usp=sharing)
 
 ## Usage
 1. Open a terminal or command prompt.
